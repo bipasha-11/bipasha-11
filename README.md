@@ -1,5 +1,24 @@
 # 💫 About Me:
-I am Bipasha Vijayanand, a Computer Science student focused on AI/ML with experience in computer vision, quantum-classical learning, and full-stack development.<br><br>Skilled in: Python, C/C++, Java, R  <br>Web & Backend: React.js, Node.js, Flask  <br>Database: Oracle PL/SQL, MySQL  <br><br>Currently working on:<br>• AI–Quantum research in healthcare (review paper submitted)<br>• Hybrid CNN + Quantum ML model for fMRI classification<br>• Real-time fall detection system using YOLOv8 + tracking<br><br>Research & Recognition:<br>• Built a UNIX File System Simulator with EXT2 heuristics<br>• Presented at ICTMIM 2026 conference<br>• Proposed ML-based adaptive allocation improving storage efficiency<br><br>Built projects in:<br>• NLP-to-SQL systems (LLM-based query generation)<br>• Legal document search engines (inverted indexing)<br>• Full-stack governance platforms<br><br>Interested in: AI systems, problem solving, scalable architectures, and real-world ML applications
+I am Bipasha Vijayanand, a Computer Science student focused on AI/ML with experience in computer vision, quantum-classical learning, and full-stack development.
+
+Skills: Python, C/C++, Java, R | React.js, Node.js, Flask | Oracle PL/SQL, MySQL  
+
+Currently working on:
+• AI–Quantum research in healthcare (review paper submitted)  
+• Hybrid CNN + Quantum ML model for fMRI classification  
+• Real-time fall detection system (YOLOv8 + tracking)
+
+Research:
+• UNIX File System Simulator with EXT2 heuristics  
+• Presented at ICTMIM 2026  
+• ML-based adaptive allocation for improved storage efficiency  
+
+Projects:
+• NLP-to-SQL system (LLM-based)  
+• Legal document search engine (inverted indexing)  
+• Full-stack governance platform  
+
+Interests: AI systems, problem solving, scalable architectures
 
 
 ## 🌐 Socials:
