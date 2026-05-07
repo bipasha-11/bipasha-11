@@ -32,7 +32,7 @@ Interests: AI systems, problem solving, scalable architectures
 </p>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=bipasha-11&theme=tokyonight&hide_border=false" />
+  <img height="200em" src="https://streak-stats.demolab.com/?user=bipasha-11&theme=tokyonight&hide_border=false" />
   
-  <img width="36%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bipasha-11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bipasha-11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
